@@ -1,0 +1,24 @@
+{
+  "name": "implementando-designer-patterns-Gof-typescript",
+  "version": "1.0.0",
+  "description": "Projecto criado para estudo de designer patterns baseado no livro Gang of four(Gof).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauloggdev/implementando-designer-patterns-Gof-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauloggdev/implementando-designer-patterns-Gof-typescript/issues"
+  },
+  "homepage": "https://github.com/pauloggdev/implementando-designer-patterns-Gof-typescript#readme",
+  "devDependencies": {
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3"
+  }
+}
